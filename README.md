@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Genome K-mer Counter
 
 This project is a Python program that reads a DNA sequence from a FASTA file and finds all the k-mers (substrings of length `k`) in that sequence. For each k-mer, it also keeps track of how often each letter (A, C, G, or T) appears right after it in the sequence.
@@ -109,6 +108,3 @@ Here's what each file in this project does:
 - `.gitignore`: Keeps unnecessary or temporary files out of version control
 
 ---
-=======
-# kmer-counter-WF
->>>>>>> b2cd26738d1acf7ebd4855eb411a9f5c928b2906
