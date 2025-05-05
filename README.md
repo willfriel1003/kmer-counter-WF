@@ -99,12 +99,10 @@ This will run the test file located at `tests/test_main.py` and tell you if ever
 Here's what each file in this project does:
 
 - `main.py`: The main program that reads the DNA, counts k-mers, and saves the results
-- `tests/test_main.py`: Test file that checks the functions in `main.py`
+- `test_main.py`: Test file that checks the functions in `main.py`
 - `reads.fa`: The input FASTA file (provided)
 - `output.txt`: The file your program creates to store the results
 - `README.md`: This instruction file
-- `docs/EXPLANATION.md`: A write-up explaining how the code works and what design choices were made
-- `requirements.txt`: Lists `pytest` as a requirement for testing
-- `.gitignore`: Keeps unnecessary or temporary files out of version control
+- `EXPLANATION.md`: A write-up explaining how the code works and what design choices were made
 
 ---
